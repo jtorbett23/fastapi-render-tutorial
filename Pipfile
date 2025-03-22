@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 fastapi = {extras = ["standard"], version = "*"}
+pytest = "*"
+httpx = "*"
 
 [dev-packages]
 
@@ -14,3 +16,4 @@ python_version = "3.13"
 [scripts]
 dev = "fastapi dev main.py"
 prod = "fastapi run"
+test = "pytest"
