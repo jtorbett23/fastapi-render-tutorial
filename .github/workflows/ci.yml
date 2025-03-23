@@ -15,6 +15,7 @@ jobs:
           python-version: '3.13' 
       - name: Test
         run: |
+          pip install pipenv
           pipenv install --dev
           pipenv run test
 
