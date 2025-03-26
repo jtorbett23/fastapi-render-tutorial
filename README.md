@@ -1,7 +1,8 @@
 ## Summary
 
-This is a example repo used deploying via Github Actions to for hosting via [render](https://render.com).
+This is a example repo used deploying via Github Actions to for hosting via [Render](https://render.com).
 
+This will require configuration in both Render and Github, follow this [tutorial](https://dev.to/jtorbett23/render-github-actions-2b92) for more information.
 
 ## Installation
 
