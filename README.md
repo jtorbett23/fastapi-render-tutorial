@@ -2,6 +2,8 @@
 
 This is a example repo used deploying via Github Actions to for hosting via [Render](https://render.com).
 
+[Live url](https://fastapi-render-tutorial-67z2.onrender.com) - As this is hosted via the free version of Render it may require a minute to startup if it has been idle. 
+
 This will require configuration in both Render and Github, follow this [tutorial](https://dev.to/jtorbett23/render-github-actions-2b92) for more information.
 
 ## Installation
