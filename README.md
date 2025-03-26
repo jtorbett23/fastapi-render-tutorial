@@ -2,7 +2,6 @@
 
 This is a example repo used deploying via Github Actions to for hosting via [render](https://render.com).
 
-
 ## Installation
 
 To install dependencies: `pipenv install --dev`
